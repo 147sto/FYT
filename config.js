@@ -12,8 +12,8 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE:"false",
 OMDB_API_KEY: "5e339fb7",
-OWNER_NAME: process.env.OWNER_NAME || "your name",
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+OWNER_NAME: process.env.OWNER_NAME || "FYT",
+pAUTO_TYPING: process.env.AUTO_TYPING || "false",
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true"
 };
 
